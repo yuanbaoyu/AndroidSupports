@@ -39,6 +39,8 @@ captures/
 .idea/gradle.xml
 .idea/dictionaries
 .idea/libraries
+.idea/modules.xml
+.idea/vcs.xml
 
 # Keystore files
 *.jks
@@ -57,7 +59,6 @@ freeline_project_description.json
 .idea/markdown-navigator/
 .idea/misc.xml
 .idea/runConfigurations.xml
-build.gradle
 gradle.properties
 gradle/
 gradlew
