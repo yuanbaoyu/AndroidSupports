@@ -53,3 +53,12 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+.idea/encodings.xml
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/runConfigurations.xml
+build.gradle
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
